@@ -31,19 +31,7 @@ This repository contains the backend for a To-Do List application, built with No
 - **Validation**: Joi or Express-Validator
 - **Environment Variables**: Dotenv
 
-## Project Structure
 
-```
-src/
-|-- controllers/        # Route controllers for handling requests
-|-- middlewares/        # Custom middleware (e.g., authentication, validation)
-|-- models/             # Mongoose models for database schemas
-|-- routes/             # Express routes
-|-- services/           # Business logic and reusable services
-|-- utils/              # Utility functions (e.g., error handling)
-|-- app.ts              # Main application file
-|-- server.ts           # Server setup and initialization
-```
 
 ## Installation
 
